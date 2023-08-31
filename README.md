@@ -45,7 +45,7 @@ During the development of this project, several challenges were encountered. The
 
 ## Author of the System
 
-- [Malik Mouhiidine](https://github.com/malikmouhiidine) And Oussama Awlaqi.
+- [Malik Mouhiidine](https://github.com/malikmouhiidine) And Oussama Awlaqi and a special thanks to prof Alaawami for helping us in trying to realise the project.
 
 ## License
 
