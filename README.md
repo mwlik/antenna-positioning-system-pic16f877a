@@ -24,7 +24,7 @@ This repository contains the code and documentation for a Motor Controlling Posi
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/malikmouhiidine/antenna_positioning_system_pic16f877a.git`
+1. Clone this repository: `git clone https://github.com/mwlik/antenna_positioning_system_pic16f877a.git`
 2. Compile and upload the code to your microcontroller.
 3. Connect the hardware components as per the circuit diagram (see the PDF).
 4. Power on the system and use the interface to control the motor.
